@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Çözüm Öğeleri/" />
+  <Project Path="../BuildApp1.2/BuildApp1.2.csproj" />
+  <Project Path="../ClassLibrary/ClassLibrary.csproj" />
+  <Project Path="BuildApp1.csproj" />
+</Solution>
